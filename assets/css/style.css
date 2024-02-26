@@ -93,8 +93,8 @@ h1 span {
 /* NAVBAR */
 .navbar {
     background-color: var(--color-base);
-    line-height: 2.5vw;
-    font-size: 1.3vw;
+    line-height: 35px;
+    font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
 
 }
