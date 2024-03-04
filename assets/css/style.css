@@ -88,7 +88,8 @@ h1 span {
     justify-content: center;
     padding-top: 70px;
     padding-bottom: 30px;
-    border-bottom: 2px solid rgba(255,255,255, 0.1);}
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+}
 
 /* NAVBAR */
 .navbar {
@@ -155,13 +156,13 @@ h1 span {
         font-size: 25px;
         font-family: serif;
         cursor: pointer;
-        
+
     }
 
     .right {
         float: left;
         padding-top: 40px;
-        
+
 
     }
 
@@ -249,11 +250,11 @@ h1 span {
         top: 110%;
         transition: all 0.4s;
     }
-    
+
     .link-custom:hover::after {
         width: 100%;
     }
-    
+
     /*project end*/
 
 
@@ -275,7 +276,7 @@ h1 span {
 
     .btn-brand {
         background-color: var(--color-brand);
-        
+
 
     }
 
